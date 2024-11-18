@@ -1,4 +1,6 @@
 # DOSM_open_data
+OpenDOSM is a platform that catalogs, visualises, and analyses DOSM's (Department of Statistics Malaysia) wealth of data.
+
 
 ![image](https://github.com/user-attachments/assets/a6f601da-e4d6-45b7-8ca0-406e04c3b789)
 Distribution of Poverty Incidence:
