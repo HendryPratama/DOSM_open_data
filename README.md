@@ -16,5 +16,8 @@ This distribution offers a demographic overview, highlighting the percentage of 
 
 ![image](https://github.com/user-attachments/assets/3204a1dc-ee94-40aa-b9b1-c0c8ac3be156)
 
-**the relationship between key economic sectors and their contributions to high and low poverty incidence.**
+
+**The relationship between key economic sectors and their contributions to high and low poverty incidence.**
 ![image](https://github.com/user-attachments/assets/0a88fb06-4ef1-450a-864e-5ab4f5b5f311)
+
+**"This data provides valuable insights into poverty distribution, economic disparities, and demographic structure, helping us understand the challenges and opportunities in different regions and etc analysis."**
